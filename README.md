@@ -46,9 +46,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Software Engineer at Work"/>
 </p>
 
-<p align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" width="350" alt="Funny Coding Meme"/>
-</p>
+
 
 ---
 
