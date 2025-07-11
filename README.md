@@ -41,8 +41,13 @@
   <img src="https://img.shields.io/badge/Other-6E57E0?style=for-the-badge&logo=bolt&logoColor=white"/>
 </p>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Engineer GIF"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Software Engineer at Work"/>
+</p>
+
+<p align="right">
+  <img src="https://i.imgflip.com/65efzo.gif" width="350" alt="Funny Coding Meme"/>
 </p>
 
 ---
@@ -88,6 +93,8 @@
 </p>
 
 ---
+
+
 
 <p align="center">
   <b>"Let's connect, collaborate, and build something amazing together!"</b>
