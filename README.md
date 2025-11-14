@@ -63,14 +63,14 @@
 
 <h2 align="center">📌 Pinned Projects</h2>
 <p align="center">
-  <a href="https://github.com/viikasschauhann/StayFinder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=StayFinder&theme=radical" />
+  <a href="https://github.com/viikasschauhann/ClipNet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=ClipNet&theme=radical" />
   </a>
   <a href="https://github.com/viikasschauhann/Swiggy-UI-Clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=Swiggy-UI-Clone&theme=radical" />
   </a>
-  <a href="https://github.com/viikasschauhann/Chatbot-AI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=Chatbot-AI&theme=radical" />
+  <a href="https://github.com/viikasschauhann/EncryptoVault">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=EncryptoVault&theme=radical" />
   </a>
   <a href="https://github.com/viikasschauhann/KavyaPath">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viikasschauhann&repo=KavyaPath&theme=radical" />
