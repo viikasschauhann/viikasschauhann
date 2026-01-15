@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOPS-6DB33F?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Structures-FFB300?style=for-the-badge&logo=stackshare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Other-6E57E0?style=for-the-badge&logo=bolt&logoColor=white"/>
+  
 </p>
 
 
