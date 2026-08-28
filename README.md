@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Hey! Myself Vikas Chauhan</b> <br/>
-  <i>Final year Computer Engineering student | Passionate Full Stack Web Developer | Future Software Developer</i><br/>
+  <i>Software Developer | Software Engineering enthusiast | Turning ideas into scalable, production-ready software </i><br/>
   <br/>
   I am eager to collaborate with like-minded professionals and contribute to cutting-edge projects that push the boundaries of technology.
 </p>
