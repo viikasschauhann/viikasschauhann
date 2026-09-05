@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&pause=1000&color=81F732&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vikas+Chauhan;Full+Stack+Web+Developer;Future+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&pause=1000&color=81F732&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vikas+Chauhan;Full+Stack+Web+Developer;Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
